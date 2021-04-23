@@ -10,9 +10,9 @@ var Lastfeed
 var name = "Dog"
 function preload()
 {
-  dogimg1 = loadImage("images/dogImg.png")
-  dogimg2 = loadImage("images/dogImg1.png")
-  MilkImage=loadImage('images/Milk.png');
+  dogimg1 = loadImage("dogImg.png")
+  dogimg2 = loadImage("dogImg1.png")
+  MilkImage=loadImage('Milk.png');
 	//load images here
 }
 
